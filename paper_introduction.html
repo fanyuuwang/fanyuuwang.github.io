@@ -45,11 +45,12 @@
 </nav>
 <img src="./assets/images/w2c.png" width=800 alt="W2C" title="W2C Photo" />
       <h2>W2CSpace</h2>
-      <p align="justify">As the foundation of current natural language processing methods, pre-trained language model has achieved excellent performance. However, the black-box structure of the deep neural network in pre-trained language models seriously limits the interpretability of the language modeling process. After revisiting the coupled requirement of deep neural representation and semantics logic of language modeling, a Word-Context-Coupled Space (W2CSpace) is proposed by introducing the alignment processing between uninterpretable neural representation and interpretable statistical logic. Moreover, a clustering process is also designed to connect the word- and context-level semantics. Specifically, an associative knowledge network (AKN), considered interpretable statistical logic, is introduced in the alignment process for word-level semantics. Furthermore, the context-relative distance is employed as the semantic feature for the downstream classifier, which is greatly different from the current uninterpretable semantic representations of pre-trained models. Our experiments for performance evaluation and interpretable analysis are executed on several types of datasets, including SIGHAN, Weibo, and ChnSenti. Wherein a novel evaluation strategy for the interpretability of machine learning models is first proposed. According to the experimental results, our language model can achieve better performance and highly credible interpretable ability compared to related state-of-the-art methods.</p>
     </header>
 <main>
 <h2>METHODOLOGY</h2>
 <ul>
+	<img src="./assets/images/w2c_main.png" width=800 alt="W2C" title="W2C Photo" />
+	<p>The subfigs exhibit the training process for our interpretable language modeling method. (1a) The BERT encoder is firstly fine-tuned under the downstream task. We map the feature 𝐹𝐵 from fine-tuned BERT encoder to the word elements 𝐶 in W2CSpace ("T" refer to "trained"); (1b) After the training of the mapping network with a reconstruction and alignment task, the word semantics are clustered to high-dimensional context semantics 𝑋 ; (1c) During interpretable language modeling process, the context semantics inW2CSpace is gradually optimized by multiplying the merge matrix. 𝑀M We compute the context-relative distance of the mapped feature C within the optimized context ത𝑋 for the downstream task.</p>
 <li>“Word-level semantics in W2CSpace is aligned with AKN distribution.”</li>
 	<p>W2CSpace aims to realize interpretably language modeling by introducing context-aware language representations. The word-level semantics, mapped from BERT representations with a mapping network, are aligned with introduced statistical AKN distribution. With the training process for alignment process, the interpretable knowledge is ingested into mapped representations on word-level.</p>
 <li>“Context abstraction is realized by 𝒌-means clustering with merge matrix.”</li>
@@ -57,29 +58,14 @@
 <li>“Input text are interpretably modeled based on context relations.”</li>
 	<p>The input text are firstly mapped into word-level semantics in W2CSpace, and calculate the cosine distance with the context clusters, which named contextrelative distance. Context-relative distance is able to directly feed into downstream classifier in fine-tuning tasks with minimal modification.</p>
 </ul>
-<h2>Professional Affiliations</h2>
+<h2>PERFORMANCE AND INTERPRETABILITY RESULTS</h2>
 <ul>
-<li align="justify">05/2020 - current: Research Assistant in ColeGroup, Key Laboratory of Media Design and Software Technology in Jiangsu Province</li>
-<li align="justify">10/2020 - 05/2023: Student Member in ColeGroup, Key Laboratory of Media Design and Software Technology in Jiangsu Province</li>
-</ul>
-<h2>Publications</h2>
-<ul>
-<li align="justify">Fanyu Wang and Zhenping Xie. Constructing Character-Context-Coupled Space with Associative Knowledge for Interpretable Language Modeling. (Accepted) In Findings of 61th Annual Meeting of the Association for Computational
-Linguistics. <a href="https://arxiv.org/abs/2305.11543">Link</a></li>
-	
-<li align="justify">Fanyu Wang and Zhenping Xie. An Adversarial Multi-Task Learning Method for Chinese Text Correction with Semantic Detection. In 31st International Conference on Artificial Neural Networks, (ICANN2022).Springer. Bristol,
-England (Oral). <a href="https://link.springer.com/chapter/10.1007/978-3-031-15931-2_14">Link</a></li>
-
-<li align="justify">Fanyu Wang, Huihui Shao and Zhenping Xie. AxBERT: An Explainable Chinese Spelling Correction Method Driven by Associative Knowledge Network. (Under Reviewing)</li>
-
-<li align="justify">Tingting Li, Fanyu Wang (Co-first writer), Ying Zhou and Zhenping Xie. Visual illusion cognition dataset construction and recognition performance by deep neural networks. In 8th IEEE International Conference on Cloud Computing and Intelligence System (2022). Chengdu, China (Oral). <a href="https://ieeexplore.ieee.org/document/10016369">Link</a></li>
-<li align="justify">Yulin Li, Zhenping Xie and Fanyu Wang. An associative knowledge network model for interpretable semantic representation of noun context. Complex Intell. Syst. (2022). <a href="https://link.springer.com/article/10.1007/s40747-022-00757-y">Link</a></li>
-<li align="justify">Tingting Li, Fanyu Wang and Zhenping Xie. Space Topology Change Mostly Attracts Human Attention: An Implicit Feedback VR Driving System. In 30th IEEE Conference on Virtual Reality and 3D User Interfaces Abstract and Workshop (IEEEVRW 2023). <a href="https://ieeexplore.ieee.org/document/10108610">Link</a></li>
-	
-<li align="justify">Bin Zhai, Fanyu Wang and Zhenping Xie. An Explainable Enterprise Credit Evaluation Method Based on Logistic Regression Integration. In 2nd International Academic Conference on Blockchain, Information Technology and Smart Finance. (2023)</li>
-
-<li align="justify">Jun Cao, Fanyu Wang and Zhenping Xie, et al. Imputation Algorithm for Multi view financial Data based on weighted random Forest. In 2nd International Conference on Urban Planning and Regional Economy, 2023.</li>
-
+<li align="justify">"Outstanding performance on token- and sequence-classification"</li>
+	<p>The performance evaluation compose of Chinese spelling correction and Chinese sentiment classification tasks. In Chinese spelling correction task, W2CSpace outperforms most of the baselines both on word- and sentence-level, including SpellGCN (Cheng et al., 2020), HeadFilt (Nguyen et al,. 2021) and so on. The SOTA classification performance of W2CSpace in Chinese sentiment classification demonstrate that, our method can precisely modeling the text with an interpretable representation.</p>
+<li align="justify">"Interpretable analysis procedure based on sentiment classification."</li>
+	<img src="./assets/images/w2c_interpretable.png" width=800 alt="W2C" title="W2C Photo" />
+	<p>Additionally, we also investigate the analysis on the influence of space dimension size 𝑛 and cluster number 𝑘 for W2CSpace. In conclusion, benefits from the introduction of the merge matrix, W2CSpace achieves similar performance on difference settings.</p>
+	<p>As the context clusters are swapped with predicted sentimentally-opposite labels in the interpretable analysis, most of the predicted sentiments are reversed (over 96%). The changes of corresponding sentimental classification results reflects the appropriateness of W2CSpace.</p>
 </ul>
 </main>
 
