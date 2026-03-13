@@ -8,7 +8,7 @@ I am currently pursuing my PhD in the [HumanISE Lab at Monash University](https:
 
 Prior to this, I obtained my Master of Software Engineering degree from Jiangnan University under the supervision of Prof. Zhenping Xie, and my Bachelor of Science from Dalian Maritime University.
 
-My primary research interests focus on **LLMs-driven Requirement Engineering** and **interpretable deep learning methods in Natural Language Processing**.
+My primary research interests focus on **LLMs-Driven Software Quality Assurance based on Requirements Engineering** and **Rule-based AI Safety and Reasoning**.
 
 # 🔥 News {#news}
 
