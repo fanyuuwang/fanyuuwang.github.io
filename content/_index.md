@@ -12,8 +12,9 @@ My primary research interests focus on **LLMs-driven Requirement Engineering** a
 
 # 🔥 News {#news}
 
-- *2025.02*: &nbsp;🎉🎉 Our paper on "Requirements-Driven Automated Software Testing" was accepted by **ACM TOSEM**!
-- *2024.12*: &nbsp;🚀 Presented our work on LLM hyperparameter optimization at **APSEC 2024**.
+- *2026.03*: &nbsp;🎉🎉 Our paper on "S2CR: A self-supervised self-consistency reasoning framework coupled to retrieval-augmented generation" was accepted by **Information Processing & Management**!
+- *2026.01*: &nbsp;🎉🎉 Our paper on "Reporting LLM Prompting in Automated Software Engineering: A Guideline Based on Current Practices and Expectations" was accepted by **FORGE 2026**!
+
 
 # 📝 Publications {#publications}
 
