@@ -64,8 +64,10 @@ My primary research interests focus on **LLMs-Driven Software Quality Assurance 
 - *2023* Outstanding Master's Thesis Award, Jiangnan University
 
 # 📖 Educations {#educations}
-- *2024.03 - Present*, **PhD in Software Engineering**, Thesis Title: *LLMs-Driven Automated Software Quality Assurance Based on Requirements Engineering*, Monash University, Australia
-- *2020.09 - 2023.06*, **M.Sc. in Software Engineering**, Thesis Title: *A Chinese Error-Correction Framework Incorporating Coupled Adversarial Learning*, Jiangnan University, China.
+- *2024.03 - Present*, **PhD in Software Engineering**, Monash University, Australia
+- - Thesis Title: *LLMs-Driven Automated Software Quality Assurance Based on Requirements Engineering*
+- *2020.09 - 2023.06*, **M.Sc. in Software Engineering**, Jiangnan University, China.
+- - Thesis Title: *A Chinese Error-Correction Framework Incorporating Coupled Adversarial Learning*
 - *2016.09 - 2020.06*, **B.S. in Science**, Dalian Maritime University, China.
 
 # 💻 Employment and Internships {#internships}
