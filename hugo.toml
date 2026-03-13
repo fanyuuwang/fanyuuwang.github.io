@@ -46,13 +46,9 @@ disableKinds = ["taxonomy", "term", "RSS"]
       url = '#educations'
       weight = 5
     [[languages.en.menu.main]]
-      name = 'Invited Talks'
-      url = '#invited-talks'
-      weight = 6
-    [[languages.en.menu.main]]
       name = 'Internships'
       url = '#internships'
-      weight = 7
+      weight = 6
 
 [params]
   # IMPORTANT: Make sure your image is located at assets/images/avatar.jpg!
