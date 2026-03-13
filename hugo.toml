@@ -8,7 +8,7 @@ theme = "github.com/geekifan/zero-academic-page"
   description = "PhD Student at HumanISE Lab, Monash University."
   
   # Profile details
-  avatar = "assets/images/avatar.jpg"
+  avatar = "assets/avatar.jpg"
   role = "PhD Student"
   organization = "Monash University"
 
