@@ -66,7 +66,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
   [[params.social]]
     name = "google-scholar"
     url = "https://scholar.google.com.au/citations?user=KoVjTacAAAAJ&hl=en"
-    icon = "ai ai-google-scholar"
+    icon = "fab fa-google-scholar"
   [[params.social]]
     name = "email"
     url = "mailto:fanyu.wang@monash.edu"
