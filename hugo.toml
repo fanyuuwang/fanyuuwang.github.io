@@ -1,34 +1,85 @@
-baseURL = "https://fanyuuwang.github.io/"
-languageCode = "en-us"
-title = "Fanyu Wang"
-theme = "github.com/geekifan/zero-academic-page"
+baseURL = 'https://fanyuuwang.github.io/'
+title = 'Fanyu Wang'
+
+# multi-language support
+defaultContentLanguage = 'en'
+
+# enable git info
+enableGitInfo = true
+
+# disable taxonomy, term and RSS (which removes categories, tags and index.xml)
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[module]
+  [[module.imports]]
+    path = 'github.com/geekifan/zero-academic-page'
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    weight = 1
+    title = 'Fanyu Wang'
+
+    [languages.en.params]
+      author = "Fanyu Wang"
+      description = "Ph.D Student in the [HumanISE Lab](https://www.monash.edu/it/humanise-lab) at Monash University. Focusing on LLMs-driven Requirement Engineering and Natural Language Processing."
+      motto = "Most things in the world are not that important. But truth and love matter."
+    
+    [[languages.en.menu.main]]
+      name = 'About Me'
+      url = '#about-me'
+      weight = 1
+    [[languages.en.menu.main]]
+      name = 'News'
+      url = '#news'
+      weight = 2
+    [[languages.en.menu.main]]
+      name = 'Publications'
+      url = '#publications'
+      weight = 3
+    [[languages.en.menu.main]]
+      name = 'Honors and Awards'
+      url = '#honors-and-awards'
+      weight = 4
+    [[languages.en.menu.main]]
+      name = 'Educations'
+      url = '#educations'
+      weight = 5
+    [[languages.en.menu.main]]
+      name = 'Invited Talks'
+      url = '#invited-talks'
+      weight = 6
+    [[languages.en.menu.main]]
+      name = 'Internships'
+      url = '#internships'
+      weight = 7
 
 [params]
-  author = "Fanyu Wang"
-  description = "PhD Student at HumanISE Lab, Monash University."
-  
-  # Profile details
-  avatar = "images/profile.png"
-  role = "PhD Student"
-  organization = "Monash University"
-
-  # Social Links
-  [[params.social]]
-    name = "Email"
-    icon = "fas fa-envelope"
-    url = "mailto:fanyu.wang@monash.edu"
+  # IMPORTANT: Make sure your image is located at assets/images/avatar.jpg!
+  profilePicture = "images/avatar.jpg"
+  enableDarkMode = true
   
   [[params.social]]
-    name = "Google Scholar"
-    icon = "ai ai-google-scholar"
-    url = "https://scholar.google.com.au/citations?user=KoVjTacAAAAJ&hl=en"
-  
-  [[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    url = "https://www.linkedin.com/in/fanyuuwang/"
-
-  [[params.social]]
-    name = "GitHub"
-    icon = "fab fa-github"
+    name = "github"
     url = "https://github.com/fanyuuwang"
+    icon = "fab fa-github"
+  [[params.social]]
+    name = "google-scholar"
+    url = "https://scholar.google.com.au/citations?user=KoVjTacAAAAJ&hl=en"
+    icon = "ai ai-google-scholar"
+  [[params.social]]
+    name = "email"
+    url = "mailto:fanyu.wang@monash.edu"
+    icon = "fas fa-envelope"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/fanyuuwang/"
+    icon = "fab fa-linkedin"
+
+[build]
+  writeStats = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
