@@ -4,11 +4,11 @@ title: "Fanyu Wang"
 
 # About Me {#about-me}
 
-I am currently pursuing my PhD in the [HumanISE Lab at Monash University](https://www.monash.edu/it/huanise), under the guidance of Dr. Chetan Arora, Prof Aldeida Aleti, and A/Prof. Kla Tantithamthavorn.
+I am currently pursuing my PhD in the [HumanISE Lab at Monash University](https://www.monash.edu/it/huanise), under the guidance of [Dr. Chetan Arora](https://chetanarora.bitbucket.io), [Prof Aldeida Aleti](https://research.monash.edu/en/persons/aldeida-aleti), and [A/Prof. Kla Tantithamthavorn](https://chakkrit.com/).
 
-Prior to this, I obtained my Master of Software Engineering degree from Jiangnan University under the supervision of Prof. Zhenping Xie, and my Bachelor of Science from Dalian Maritime University.
+Prior to this, I obtained my M.Sc in Software Engineering from Jiangnan University under the supervision of [Prof. Zhenping Xie](https://ai.jiangnan.edu.cn/info/1013/1511.htm), and my Bachelor of Information Systems and Electronic Business from Dalian Maritime University.
 
-My primary research interests focus on **LLMs-Driven Software Quality Assurance based on Requirements Engineering** and **Rule-based AI Safety and Reasoning**.
+My primary research interests focus on **LLMs-Driven Software Quality Assurance based on Requirements Engineering** and **Legal Compliance for Trustworthy LLM Reasoning**.
 
 # 🔥 News {#news}
 
@@ -37,13 +37,11 @@ My primary research interests focus on **LLMs-Driven Software Quality Assurance 
 
 ### 2024
 * **Optimizing LLMs for code generation: Which hyperparameter settings yield the best results?** Chetan Arora, Ahnaf Ibn Sayeed, Sherlock Licorish, **Fanyu Wang**, Christoph Treude. *2024 31st Asia-Pacific Software Engineering Conference (APSEC)*, 2024.
-* **Optimizing large language model hyperparameters for code generation (2024).** Chetan Arora, AI Sayeed, S Licorish, **F Wang**, C Treude. *URL https://arxiv.org/abs/2408.10577*.
-
 ---
 
 ### 2023
 * **Space topology change mostly attracts human attention: An implicit feedback VR driving system.** Tingting Li, **Fanyu Wang**, Zhenping Xie. *2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)*, 2023.
-* **AxBERT: An explainable chinese spelling correction method driven by associative knowledge network.** **Fanyu Wang**, Huihui Shao, Zhenping Xie. 2023.
+* **AxBERT: An explainable Chinese spelling correction method driven by an associative knowledge network.** **Fanyu Wang**, Huihui Shao, Zhenping Xie. 2023.
 * **Constructing Word-Context-Coupled Space Aligned with Associative Knowledge Relations for Interpretable Language Modeling.** **Fanyu Wang**, Zhenping Xie. *Findings of the Association for Computational Linguistics: ACL 2023*, 2023.
 * **Imputation algorithm for multi-view financial data based on weighted random forest.** Jun Cao, Zhenping Xie, She Song. *Proceedings of the 2023 2nd International Conference on Urban Planning and Regional Economy (UPRE 2023)*, 2023. *(Note: I included this as it was in your BibTeX file, though your name isn't listed in the author list for this specific entry)*.
 
@@ -56,21 +54,23 @@ My primary research interests focus on **LLMs-Driven Software Quality Assurance 
 
 ---
 
-### Preprints & Other
+### In Peer Review
 * **The Role of Grammar in Transformer Encoder: Does It Really Matter the Language Encoding Process?** **Fanyu Wang**, Chetan Arora, Zhenping Xie. *Available at SSRN 5473085*.
 
 
 # 🎖 Honors and Awards {#honors-and-awards}
-- *2024* Monash Graduate Scholarship & Monash International Tuition Scholarship.
-- *2023* Outstanding Master's Thesis Award, Jiangnan University.
+- *2025* Top-Up Scholarship from the Faculty of IT, Monash University
+- *2024* Monash Graduate Scholarship & Monash International Tuition Scholarship
+- *2023* Outstanding Master's Thesis Award, Jiangnan University
 
 # 📖 Educations {#educations}
-- *2024.03 - Present*, **PhD in Software Engineering**, Monash University, Australia.
-- *2020.09 - 2023.06*, **M.S. in Software Engineering**, Jiangnan University, China.
+- *2024.03 - Present*, **PhD in Software Engineering**, Thesis Title: *LLMs-Driven Automated Software Quality Assurance Based on Requirements Engineering*, Monash University, Australia
+- *2020.09 - 2023.06*, **M.Sc. in Software Engineering**, Thesis Title: *A Chinese Error-Correction Framework Incorporating Coupled Adversarial Learning*, Jiangnan University, China.
 - *2016.09 - 2020.06*, **B.S. in Science**, Dalian Maritime University, China.
 
-# 💬 Invited Talks {#invited-talks}
-- *2024.12*, Hyperparameter settings for LLMs in code generation, APSEC, Malaysia.
+# 💻 Employment and Internships {#internships}
+- *2025.09 - Present*, Research Scholar on Legal Compliance for Trustworthy LLM Reasoning, Monash University, Australia.
+- *2024.07 - 2025.07*, Research Assistant on Legal and Safety AI, Monash University, Australia.
+- *2024.07 - 2024.12*, Teaching Associate on FIT1056 - Introduction to Software Engineering, Monash University, Australia.
+- *2023.07 - 2024.02*, Research Assistant, Key Laboratory of Media Design and Software Technology in Jiangsu Province, China.
 
-# 💻 Internships {#internships}
-- *2023.07 - 2024.02*, Research Assistant, Jiangnan University, China.
