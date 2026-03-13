@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-description: "A chronological list of my research publications."
+weight: 3
 ---
 
 ### 2026
