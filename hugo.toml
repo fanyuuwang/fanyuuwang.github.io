@@ -1,4 +1,4 @@
-baseURL = "https://fanyuuwang.github.io/fanyuuwang3.github.io/" # Change if you rename the repo to fanyuuwang.github.io
+baseURL = "https://fanyuuwang.github.io/"
 languageCode = "en-us"
 title = "Fanyu Wang"
 theme = "github.com/geekifan/zero-academic-page"
