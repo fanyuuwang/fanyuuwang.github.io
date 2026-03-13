@@ -16,7 +16,7 @@ theme = "github.com/geekifan/zero-academic-page"
   [[params.social]]
     name = "Email"
     icon = "fas fa-envelope"
-    url = "mailto:your-email@monash.edu"
+    url = "mailto:fanyu.wang@monash.edu"
   
   [[params.social]]
     name = "Google Scholar"
