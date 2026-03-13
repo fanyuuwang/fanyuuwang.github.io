@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+id: "publications"
 weight: 3
 ---
 
