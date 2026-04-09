@@ -12,6 +12,7 @@ My primary research interests focus on **LLMs-Driven Software Quality Assurance 
 
 # 🔥 News {#news}
 
+- *2026.04*: &nbsp;🎉🎉 Our paper on "LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues" was accepted by **ACL2026**! The preprint will be released soon.
 - *2026.03*: &nbsp;🎉🎉 Our paper on "S2CR: A self-supervised self-consistency reasoning framework coupled to retrieval-augmented generation" was accepted by **Information Processing & Management**!
 - *2026.01*: &nbsp;🎉🎉 Our paper on "Reporting LLM Prompting in Automated Software Engineering: A Guideline Based on Current Practices and Expectations" was accepted by **FORGE 2026**!
 
@@ -19,6 +20,7 @@ My primary research interests focus on **LLMs-Driven Software Quality Assurance 
 # 📝 Publications {#publications}
 
 ### 2026
+* **LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues.** **Wang, Fanyu** and Kang, Xiaoxi and Burgess, Paul and Srivastava, Aashish and Arora, Chetan and Trakic, Adnan and Soon, Lay-Ki and Hossain, Md Khalid and Qu, Lizhen. *The 64th Annual Meeting of the Association for Computational Linguistics*, 2026
 * **Reporting LLM Prompting in Automated Software Engineering: A Guideline Based on Current Practices and Expectations.** Alexander Korn, Lea Zaruchas, Chetan Arora, Andreas Metzger, Sven Smolka, **Fanyu Wang**, Andreas Vogelsang. *3rd ACM international conference on AI Foundation Models and Software Engineering (FORGE 2026)*, 2026.
 * **S2CR: A self-supervised self-consistency reasoning framework coupled to retrieval-augmented generation.** Huihui Shao, **Fanyu Wang**, Shuaiyu Zhang, Zhenping Xie. *Information Processing & Management* (Vol. 63, No. 6), 2026.
 
