@@ -8,11 +8,11 @@ I am currently pursuing my PhD in the [HumanISE Lab at Monash University](https:
 
 Prior to this, I obtained my M.Sc in Software Engineering from Jiangnan University under the supervision of [Prof. Zhenping Xie](https://ai.jiangnan.edu.cn/info/1013/1511.htm), and my Bachelor of Information Systems and Electronic Business from Dalian Maritime University.
 
-My primary research interests focus on **LLMs-Driven Software Quality Assurance based on Requirements Engineering** and **Normative Rule Reasoning for Trustworthy AI**.
+My primary research interest is **Specification-Grounded Verification of Intelligent Systems**.
 
-These interests are not separate threads but a single line of inquiry. Software requirements define what a system must do; legal statutes define what an AI system must comply with; safety norms define how an autonomous agent must behave. All three are forms of structured normative knowledge that exist precisely because human intent cannot be left implicit. Yet the prevailing approach to LLM-based automation treats these specifications as optional context at best, generating outputs that look plausible but drift from what the knowledge actually demands. This research takes the opposite position: that structured human knowledge — whether a requirements document, a legal corpus, or a regulatory standard — should be the primary signal that governs what a language model produces, how its reasoning is organized, and how its outputs are evaluated.
+> **How can intelligent systems be made verifiably accountable to the specifications that govern them?**
 
-> **How can structured human knowledge be used to make AI or AI-based System safe, grounded, and accountable?**
+Intelligent systems — whether software applications, AI reasoning tools, or autonomous robots — must behave in accordance with what humans have specified they should do. These specifications take different forms depending on the domain; e.g., software requirements define the expected behavior of an application, while legal regulations and safety norms define what and how an LLM must correctly reason about and act when operating alongside humans. Across these, the core challenge is the same — ensuring that an intelligent system's behavior is verifiable against its governing specification, rather than left to the model's own judgment. My research broadly pursues that challenge across diverse yet linked directions: **LLM-driven acceptance testing grounded in software requirements**, and **safety assurance grounded in legal or physical coexistence rules**.
 
 # 🔥 News {#news}
 
