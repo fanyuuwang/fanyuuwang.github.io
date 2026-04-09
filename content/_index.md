@@ -4,11 +4,15 @@ title: "Fanyu Wang"
 
 # About Me {#about-me}
 
-I am currently pursuing my PhD in the [HumanISE Lab at Monash University](https://www.monash.edu/it/huanise), under the guidance of [Dr. Chetan Arora](https://chetanarora.bitbucket.io), [Prof Aldeida Aleti](https://research.monash.edu/en/persons/aldeida-aleti), and [A/Prof. Kla Tantithamthavorn](https://chakkrit.com/).
+I am currently pursuing my PhD in the [HumanISE Lab at Monash University](https://www.monash.edu/it/humanaise-lab/home), under the guidance of [Dr. Chetan Arora](https://chetanarora.bitbucket.io), [Prof Aldeida Aleti](https://research.monash.edu/en/persons/aldeida-aleti), and [A/Prof. Kla Tantithamthavorn](https://chakkrit.com/).
 
 Prior to this, I obtained my M.Sc in Software Engineering from Jiangnan University under the supervision of [Prof. Zhenping Xie](https://ai.jiangnan.edu.cn/info/1013/1511.htm), and my Bachelor of Information Systems and Electronic Business from Dalian Maritime University.
 
-My primary research interests focus on **LLMs-Driven Software Quality Assurance based on Requirements Engineering** and **Legal Compliance for Trustworthy LLM Reasoning**.
+My primary research interests focus on **LLMs-Driven Software Quality Assurance based on Requirements Engineering** and **Normative Rule Reasoning for Trustworthy AI**.
+
+These interests are not separate threads but a single line of inquiry. Software requirements define what a system must do; legal statutes define what an AI system must comply with; safety norms define how an autonomous agent must behave. All three are forms of structured normative knowledge that exist precisely because human intent cannot be left implicit. Yet the prevailing approach to LLM-based automation treats these specifications as optional context at best, generating outputs that look plausible but drift from what the knowledge actually demands. This research takes the opposite position: that structured human knowledge — whether a requirements document, a legal corpus, or a regulatory standard — should be the primary signal that governs what a language model produces, how its reasoning is organized, and how its outputs are evaluated.
+
+> **How can structured human knowledge be used to make AI or AI-based System safe, grounded, and accountable?**
 
 # 🔥 News {#news}
 
