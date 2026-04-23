@@ -16,7 +16,7 @@ Intelligent systems — whether software applications, AI reasoning tools, or au
 
 # 🔥 News {#news}
 
-- *2026.04*: &nbsp;🎉🎉 Our paper on "LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues" was accepted by **ACL2026**! The preprint will be released soon.
+- *2026.04*: &nbsp;🎉🎉 Our paper on "LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues" was accepted by **ACL2026**!
 - *2026.03*: &nbsp;🎉🎉 Our paper on "S2CR: A self-supervised self-consistency reasoning framework coupled to retrieval-augmented generation" was accepted by **Information Processing & Management**!
 - *2026.01*: &nbsp;🎉🎉 Our paper on "Reporting LLM Prompting in Automated Software Engineering: A Guideline Based on Current Practices and Expectations" was accepted by **FORGE 2026**!
 
