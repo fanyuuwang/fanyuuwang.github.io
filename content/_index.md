@@ -10,7 +10,7 @@ Prior to this, I obtained my M.Sc in Software Engineering from Jiangnan Universi
 
 My primary research interest is **Specification-Grounded Verification of Intelligent Systems**.
 
-> **How can intelligent systems be made verifiably accountable to the specifications that govern them?**
+> *"How can intelligent systems be made verifiably accountable to the specifications that govern them?"*
 
 Intelligent systems — whether software applications, AI reasoning tools, or autonomous robots — must behave in accordance with what humans have specified they should do. These specifications take different forms depending on the domain; e.g., software requirements define the expected behavior of an application, while legal regulations and safety norms define what and how an LLM must correctly reason about and act when operating alongside humans. Across these, the core challenge is the same — ensuring that an intelligent system's behavior is verifiable against its governing specification, rather than left to the model's own judgment. My research broadly pursues that challenge across diverse yet linked directions: **LLM-driven acceptance testing grounded in software requirements**, and **safety assurance grounded in legal or physical coexistence rules**.
 
