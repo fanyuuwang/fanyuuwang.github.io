@@ -4,7 +4,7 @@ title: "Fanyu Wang"
 
 # About Me {#about-me}
 
-I am currently pursuing my PhD in the [HumanISE Lab at Monash University](https://www.monash.edu/it/humanaise-lab/home), under the guidance of [Dr. Chetan Arora](https://chetanarora.bitbucket.io), [Prof Aldeida Aleti](https://research.monash.edu/en/persons/aldeida-aleti), and [A/Prof. Kla Tantithamthavorn](https://chakkrit.com/).
+I am currently pursuing my PhD in the [HumanISE Lab at Monash University](https://www.monash.edu/it/humanaise-lab/home), under the guidance of [Dr. Chetan Arora](https://drchetanarora.com/), [Prof Aldeida Aleti](https://research.monash.edu/en/persons/aldeida-aleti), and [A/Prof. Kla Tantithamthavorn](https://chakkrit.com/).
 
 Prior to this, I obtained my M.Sc in Software Engineering from Jiangnan University under the supervision of [Prof. Zhenping Xie](https://ai.jiangnan.edu.cn/info/1013/1511.htm), and my Bachelor of Information Systems and Electronic Business from Dalian Maritime University.
 
