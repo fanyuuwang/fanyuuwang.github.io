@@ -14,7 +14,7 @@ My primary research interest is **Specification-Grounded Verification of Intelli
 
 Intelligent systems — whether software applications, AI reasoning tools, or autonomous robots — must behave in accordance with what humans have specified they should do. These specifications take different forms depending on the domain; e.g., software requirements define the expected behavior of an application, while legal regulations and safety norms define what and how an LLM must correctly reason about and act when operating alongside humans. Across these, the core challenge is the same — ensuring that an intelligent system's behavior is verifiable against its governing specification, rather than left to the model's own judgment. My research broadly pursues that challenge across diverse yet linked directions: **LLM-driven acceptance testing grounded in software requirements**, and **safety assurance grounded in legal or physical coexistence rules**.
 
-# 🔥 News {#news}
+# News {#news}
 
 - *2026.07*: &nbsp;🎉🎉 Our paper on "Requirements-Augmented Generation for Trustworthy Acceptance Testing of LLM-based Software" was accepted by **ASE2026**!
 - *2026.04*: &nbsp;🎉🎉 Our paper on "LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues" was accepted by **ACL2026 (Oral)**!
@@ -22,7 +22,7 @@ Intelligent systems — whether software applications, AI reasoning tools, or au
 - *2026.01*: &nbsp;🎉🎉 Our paper on "Reporting LLM Prompting in Automated Software Engineering: A Guideline Based on Current Practices and Expectations" was accepted by **FORGE 2026**!
 
 
-# 📝 Publications {#publications}
+# Publications {#publications}
 
 ### 2026
 * **LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues.** **Fanyu Wang**, Xiaoxi Kang, Paul Burgess, Aashish Srivastava, Chetan Arora, Adnan Trakic, Lay-Ki Soon, Md Khalid Hossain and Lizhen Qu. *The 64th Annual Meeting of the Association for Computational Linguistics*, 2026
@@ -65,19 +65,19 @@ Intelligent systems — whether software applications, AI reasoning tools, or au
 * **The Role of Grammar in Transformer Encoder: Does It Really Matter the Language Encoding Process?** **Fanyu Wang**, Chetan Arora, Zhenping Xie. *Available at SSRN 5473085*.
 
 
-# 🎖 Honors and Awards {#honors-and-awards}
+# Honors and Awards {#honors-and-awards}
 - *2025* Top-Up Scholarship from the Faculty of IT, Monash University
 - *2024* Monash Graduate Scholarship & Monash International Tuition Scholarship
 - *2023* Outstanding Master's Thesis Award, Jiangnan University
 
-# 📖 Educations {#educations}
+# Educations {#educations}
 - *2024.03 - Present*, **PhD in Software Engineering**, Monash University, Australia
 - - Thesis Title: *LLMs-Driven Automated Software Quality Assurance Based on Requirements Engineering*
 - *2020.09 - 2023.06*, **M.Sc. in Software Engineering**, Jiangnan University, China.
 - - Thesis Title: *A Chinese Error-Correction Framework Incorporating Coupled Adversarial Learning*
 - *2016.09 - 2020.06*, **B.S. in Science**, Dalian Maritime University, China.
 
-# 💻 Employment and Internships {#internships}
+# Employment and Internships {#internships}
 - *2025.09 - Present*, Research Scholar on Legal Compliance for Trustworthy LLM Reasoning, Monash University, Australia.
 - *2024.07 - 2025.07*, Research Assistant on Legal and Safety AI, Monash University, Australia.
 - *2024.07 - 2024.12*, Teaching Associate on FIT1056 - Introduction to Software Engineering, Monash University, Australia.
