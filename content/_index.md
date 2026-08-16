@@ -25,6 +25,7 @@ Intelligent systems — whether software applications, AI reasoning tools, or au
 # Publications {#publications}
 
 ### 2026
+* **Requirements-Augmented Generation for Trustworthy Acceptance Testing of LLM-Based Software.** **Fanyu Wang**, Chetan Arora, Zhenping Xie, Yonghui Liu, Kla Tantithamthavorn, Aldeida Aleti, Siwei Jiang. *41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)*, 2026.
 * **LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues.** **Fanyu Wang**, Xiaoxi Kang, Paul Burgess, Aashish Srivastava, Chetan Arora, Adnan Trakic, Lay-Ki Soon, Md Khalid Hossain and Lizhen Qu. *The 64th Annual Meeting of the Association for Computational Linguistics*, 2026
 * **Reporting LLM Prompting in Automated Software Engineering: A Guideline Based on Current Practices and Expectations.** Alexander Korn, Lea Zaruchas, Chetan Arora, Andreas Metzger, Sven Smolka, **Fanyu Wang**, Andreas Vogelsang. *3rd ACM international conference on AI Foundation Models and Software Engineering (FORGE 2026)*, 2026.
 * **S2CR: A self-supervised self-consistency reasoning framework coupled to retrieval-augmented generation.** Huihui Shao, **Fanyu Wang**, Shuaiyu Zhang, Zhenping Xie. *Information Processing & Management* (Vol. 63, No. 6), 2026.
