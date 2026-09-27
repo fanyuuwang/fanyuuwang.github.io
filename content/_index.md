@@ -15,7 +15,7 @@ My primary research interest is **Specification-Grounded Verification of Intelli
 Intelligent systems — whether software applications, AI reasoning tools, or autonomous robots — must behave in accordance with what humans have specified they should do. These specifications take different forms depending on the domain; e.g., software requirements define the expected behavior of an application, while legal regulations and safety norms define what and how an LLM must correctly reason about and act when operating alongside humans. Across these, the core challenge is the same — ensuring that an intelligent system's behavior is verifiable against its governing specification, rather than left to the model's own judgment. My research broadly pursues that challenge across diverse yet linked directions: **LLM-driven acceptance testing grounded in software requirements**, and **safety assurance grounded in legal or physical coexistence rules**.
 
 # News {#news}
-
+- *2026.09*: &nbsp;🎉🎉 Our paper on "The Role of Grammar in Transformer Encoders: Does It Really Matter for Language Understanding Process?" was accepted by **Neural Networks**!
 - *2026.07*: &nbsp;🎉🎉 Our paper on "Requirements-Augmented Generation for Trustworthy Acceptance Testing of LLM-based Software" was accepted by **ASE2026**!
 - *2026.04*: &nbsp;🎉🎉 Our paper on "LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues" was accepted by **ACL2026 (Oral)**!
 - *2026.03*: &nbsp;🎉🎉 Our paper on "S2CR: A self-supervised self-consistency reasoning framework coupled to retrieval-augmented generation" was accepted by **Information Processing & Management**!
@@ -25,6 +25,7 @@ Intelligent systems — whether software applications, AI reasoning tools, or au
 # Publications {#publications}
 
 ### 2026
+* **The Role of Grammar in Transformer Encoder: Does It Really Matter the Language Encoding Process?** **Fanyu Wang**, Chetan Arora, Zhenping Xie. *Neural Networks (NN)*, 2026.
 * **Requirements-Augmented Generation for Trustworthy Acceptance Testing of LLM-Based Software.** **Fanyu Wang**, Chetan Arora, Zhenping Xie, Yonghui Liu, Kla Tantithamthavorn, Aldeida Aleti, Siwei Jiang. *41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)*, 2026.
 * **LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues.** **Fanyu Wang**, Xiaoxi Kang, Paul Burgess, Aashish Srivastava, Chetan Arora, Adnan Trakic, Lay-Ki Soon, Md Khalid Hossain and Lizhen Qu. *The 64th Annual Meeting of the Association for Computational Linguistics*, 2026
 * **Reporting LLM Prompting in Automated Software Engineering: A Guideline Based on Current Practices and Expectations.** Alexander Korn, Lea Zaruchas, Chetan Arora, Andreas Metzger, Sven Smolka, **Fanyu Wang**, Andreas Vogelsang. *3rd ACM international conference on AI Foundation Models and Software Engineering (FORGE 2026)*, 2026.
@@ -61,10 +62,6 @@ Intelligent systems — whether software applications, AI reasoning tools, or au
 * **An associative knowledge network model for interpretable semantic representation of noun context.** Yulin Li, Zhenping Xie, **Fanyu Wang**. *Complex & Intelligent Systems* (Vol. 8, No. 6), 2022.
 
 ---
-
-### In Peer Review
-* **The Role of Grammar in Transformer Encoder: Does It Really Matter the Language Encoding Process?** **Fanyu Wang**, Chetan Arora, Zhenping Xie. *Available at SSRN 5473085*.
-
 
 # Honors and Awards {#honors-and-awards}
 - *2025* Top-Up Scholarship from the Faculty of IT, Monash University
